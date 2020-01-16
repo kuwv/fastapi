@@ -72,7 +72,7 @@ nav:
                     - OAuth2 with Password (and hashing), Bearer with JWT tokens: 'tutorial/security/oauth2/password/oauth2-jwt.md'
                 - Authorization Code Flow:
                     - First Steps: 'tutorial/security/oauth2/authorization-code/overview.md'
-                - OAuth2 scopes: 'tutorial/security/oauth2/oauth2-scopes.md'
+                - OAuth2 scopes: 'tutorial/security/oauth2/scopes.md'
         - Middleware: 'tutorial/middleware.md'    
         - CORS (Cross-Origin Resource Sharing): 'tutorial/cors.md'    
         - Using the Request Directly: 'tutorial/using-request-directly.md'    
